@@ -2,7 +2,7 @@
 
 **files:** four folders: Command, Communication, Distance and Files. Correctness.cpp and Correctness.h.
 
-**How to compilate:** 'make all' (using the MAKEFILE) - compiles both "Server" and "Client".
+**How to compile:** 'make all' (using the MAKEFILE) - compiles both "Server" and "Client".
 
 Use 'make clean' to remove the compilated files and run file from the folder.
 
